@@ -23,6 +23,8 @@
     "live-server": "^1.2.2"
   },
   "devDependencies": {
-    "sass": "^1.59.3"
+    "sass": "^1.59.3",
+    "stylelint": "^15.3.0",
+    "stylelint-scss": "^4.5.0"
   }
 }
