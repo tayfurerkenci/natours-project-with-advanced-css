@@ -1,0 +1,28 @@
+{
+  "name": "natours-project-with-advanced-css",
+  "version": "1.0.0",
+  "description": "advanced-responsive-design-sass-project",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass -w sass/main.scss css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tayfurerkenci/natours-project-with-advanced-css.git"
+  },
+  "keywords": [
+    "sass"
+  ],
+  "author": "tayfur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tayfurerkenci/natours-project-with-advanced-css/issues"
+  },
+  "homepage": "https://github.com/tayfurerkenci/natours-project-with-advanced-css#readme",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  },
+  "devDependencies": {
+    "sass": "^1.59.3"
+  }
+}
